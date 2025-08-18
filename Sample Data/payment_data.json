@@ -1,0 +1,178 @@
+[
+  {
+    "payment_id": 1,
+    "method": "credit_card",
+    "provider": "Visa",
+    "type": "one-time",
+    "status": "completed"
+  },
+  {
+    "payment_id": 2,
+    "method": "credit_card",
+    "provider": "MasterCard",
+    "type": "recurring",
+    "status": "pending"
+  },
+  {
+    "payment_id": 3,
+    "method": "debit_card",
+    "provider": "Rupay",
+    "type": "one-time",
+    "status": "failed"
+  },
+  {
+    "payment_id": 4,
+    "method": "e-wallet",
+    "provider": "Paytm",
+    "type": "recurring",
+    "status": "completed"
+  },
+  {
+    "payment_id": 5,
+    "method": "e-wallet",
+    "provider": "GooglePay",
+    "type": "one-time",
+    "status": "completed"
+  },
+  {
+    "payment_id": 6,
+    "method": "net_banking",
+    "provider": "ICICI Bank",
+    "type": "one-time",
+    "status": "refunded"
+  },
+  {
+    "payment_id": 7,
+    "method": "net_banking",
+    "provider": "HDFC Bank",
+    "type": "recurring",
+    "status": "pending"
+  },
+  {
+    "payment_id": 8,
+    "method": "upi",
+    "provider": "PhonePe",
+    "type": "one-time",
+    "status": "completed"
+  },
+  {
+    "payment_id": 9,
+    "method": "upi",
+    "provider": "BHIM",
+    "type": "one-time",
+    "status": "failed"
+  },
+  {
+    "payment_id": 10,
+    "method": "credit_card",
+    "provider": "AmericanExpress",
+    "type": "recurring",
+    "status": "completed"
+  },
+  {
+    "payment_id": 11,
+    "method": "e-wallet",
+    "provider": "Mobikwik",
+    "type": "one-time",
+    "status": "pending"
+  },
+  {
+    "payment_id": 12,
+    "method": "credit_card",
+    "provider": "Discover",
+    "type": "recurring",
+    "status": "failed"
+  },
+  {
+    "payment_id": 13,
+    "method": "debit_card",
+    "provider": "SBI",
+    "type": "one-time",
+    "status": "completed"
+  },
+  {
+    "payment_id": 14,
+    "method": "net_banking",
+    "provider": "Axis Bank",
+    "type": "recurring",
+    "status": "completed"
+  },
+  {
+    "payment_id": 15,
+    "method": "upi",
+    "provider": "Amazon Pay UPI",
+    "type": "one-time",
+    "status": "completed"
+  },
+  {
+    "payment_id": 16,
+    "method": "credit_card",
+    "provider": "HDFC Bank",
+    "type": "one-time",
+    "status": "refunded"
+  },
+  {
+    "payment_id": 17,
+    "method": "upi",
+    "provider": "GooglePay",
+    "type": "recurring",
+    "status": "pending"
+  },
+  {
+    "payment_id": 18,
+    "method": "e-wallet",
+    "provider": "Freecharge",
+    "type": "one-time",
+    "status": "completed"
+  },
+  {
+    "payment_id": 19,
+    "method": "net_banking",
+    "provider": "PNB",
+    "type": "one-time",
+    "status": "failed"
+  },
+  {
+    "payment_id": 20,
+    "method": "credit_card",
+    "provider": "SBI",
+    "type": "recurring",
+    "status": "completed"
+  },
+  {
+    "payment_id": 21,
+    "method": "upi",
+    "provider": "PhonePe",
+    "type": "one-time",
+    "status": "refunded"
+  },
+  {
+    "payment_id": 22,
+    "method": "debit_card",
+    "provider": "Axis Bank",
+    "type": "recurring",
+    "status": "completed"
+  },
+  {
+    "payment_id": 23,
+    "method": "net_banking",
+    "provider": "Kotak Mahindra",
+    "type": "one-time",
+    "status": "pending"
+  },
+  {
+    "payment_id": 24,
+    "method": "e-wallet",
+    "provider": "PayPal",
+    "type": "recurring",
+    "status": "completed"
+  },
+  {
+    "payment_id": 25,
+    "method": "upi",
+    "provider": "BHIM",
+    "type": "one-time",
+    "status": "completed"
+  }
+]
+

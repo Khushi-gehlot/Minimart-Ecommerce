@@ -1,0 +1,122 @@
+[
+    {
+        "Category_id": 1,
+        "Category_name": "Fashion",
+        "Subcategory": "Hoodies",
+        "Gender": "Male"
+    },
+    {
+        "Category_id": 2,
+        "Category_name": "Electronics",
+        "Subcategory": "Accessories",
+        "Gender": "Female"
+    },
+    {
+        "Category_id": 3,
+        "Category_name": "Books",
+        "Subcategory": "Non-fiction",
+        "Gender": "Unisex"
+    },
+    {
+        "Category_id": 4,
+        "Category_name": "Stationary",
+        "Subcategory": "Pens",
+        "Gender": "Male"
+    },
+    {
+        "Category_id": 5,
+        "Category_name": "Sports",
+        "Subcategory": "Cricket",
+        "Gender": "Unisex"
+    },
+    {
+        "Category_id": 6,
+        "Category_name": "Toys",
+        "Subcategory": "Educational",
+        "Gender": "Female"
+    },
+    {
+        "Category_id": 7,
+        "Category_name": "Furniture",
+        "Subcategory": "Tables",
+        "Gender": "Female"
+    },
+    {
+        "Category_id": 8,
+        "Category_name": "Fashion",
+        "Subcategory": "Shirts",
+        "Gender": "Male"
+    },
+    {
+        "Category_id": 9,
+        "Category_name": "Electronics",
+        "Subcategory": "Laptops",
+        "Gender": "Female"
+    },
+    {
+        "Category_id": 10,
+        "Category_name": "Books",
+        "Subcategory": "Comics",
+        "Gender": "Female"
+    },
+    {
+        "Category_id": 11,
+        "Category_name": "Stationary",
+        "Subcategory": "Notebooks",
+        "Gender": "Female"
+    },
+    {
+        "Category_id": 12,
+        "Category_name": "Sports",
+        "Subcategory": "Gym",
+        "Gender": "Female"
+    },
+    {
+        "Category_id": 13,
+        "Category_name": "Toys",
+        "Subcategory": "Action Figures",
+        "Gender": "Female"
+    },
+    {
+        "Category_id": 14,
+        "Category_name": "Furniture",
+        "Subcategory": "Chairs",
+        "Gender": "Male"
+    },
+    {
+        "Category_id": 15,
+        "Category_name": "Fashion",
+        "Subcategory": "Pants",
+        "Gender": "Unisex"
+    },
+    {
+        "Category_id": 16,
+        "Category_name": "Electronics",
+        "Subcategory": "Accessories",
+        "Gender": "Female"
+    },
+    {
+        "Category_id": 17,
+        "Category_name": "Books",
+        "Subcategory": "Non-fiction",
+        "Gender": "Male"
+    },
+    {
+        "Category_id": 18,
+        "Category_name": "Stationary",
+        "Subcategory": "Notebooks",
+        "Gender": "Unisex"
+    },
+    {
+        "Category_id": 19,
+        "Category_name": "Sports",
+        "Subcategory": "Gym",
+        "Gender": "Male"
+    },
+    {
+        "Category_id": 20,
+        "Category_name": "Toys",
+        "Subcategory": "Educational",
+        "Gender": "Unisex"
+    }
+]
