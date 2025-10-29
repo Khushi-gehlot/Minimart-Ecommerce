@@ -1,0 +1,12 @@
+[
+    { "Country_id": 1, "Country_name": "India", "Currency": "INR" },
+    { "Country_id": 2, "Country_name": "United States", "Currency": "USD" },
+    { "Country_id": 3, "Country_name": "United Kingdom", "Currency": "GBP" },
+    { "Country_id": 4, "Country_name": "Japan", "Currency": "JPY" },
+    { "Country_id": 5, "Country_name": "Australia", "Currency": "AUD" },
+    { "Country_id": 6, "Country_name": "Canada", "Currency": "CAD" },
+    { "Country_id": 7, "Country_name": "Germany", "Currency": "EUR" },
+    { "Country_id": 8, "Country_name": "France", "Currency": "EUR" },
+    { "Country_id": 9, "Country_name": "China", "Currency": "CNY" },
+    { "Country_id": 10, "Country_name": "Brazil", "Currency": "BRL" }
+]

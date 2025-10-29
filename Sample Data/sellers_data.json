@@ -1,0 +1,802 @@
+[
+    {
+        "Seller_id": 1,
+        "Seller_name": "John Mejia",
+        "Email": "davidkent@forbes.info",
+        "Phone_no": "6231987795",
+        "Signup_date": "2024-04-20",
+        "Password": "@@k28BzldH"
+    },
+    {
+        "Seller_id": 2,
+        "Seller_name": "Amy Peterson",
+        "Email": "timothymueller@hester-mullen.net",
+        "Phone_no": "8593890861",
+        "Signup_date": "2025-08-09",
+        "Password": "w9rVpQ6A+g"
+    },
+    {
+        "Seller_id": 3,
+        "Seller_name": "Lucas Castaneda",
+        "Email": "russelldana@parker.com",
+        "Phone_no": "9063980317",
+        "Signup_date": "2024-11-30",
+        "Password": "8U6^Te@ys)"
+    },
+    {
+        "Seller_id": 4,
+        "Seller_name": "Heather Austin",
+        "Email": "regina60@cordova.com",
+        "Phone_no": "7765890486",
+        "Signup_date": "2024-07-22",
+        "Password": "3XCHNpq6#h"
+    },
+    {
+        "Seller_id": 5,
+        "Seller_name": "Joseph Richardson",
+        "Email": "jeffreygarrett@gmail.com",
+        "Phone_no": "8636117365",
+        "Signup_date": "2025-10-30",
+        "Password": "@Qj6UlIub0"
+    },
+    {
+        "Seller_id": 6,
+        "Seller_name": "Kimberly Patterson",
+        "Email": "baileyjeffrey@allen.com",
+        "Phone_no": "7377213838",
+        "Signup_date": "2023-09-05",
+        "Password": "q6w&sZib!B"
+    },
+    {
+        "Seller_id": 7,
+        "Seller_name": "Daniel Mcdaniel",
+        "Email": "christopherjacobson@lane.com",
+        "Phone_no": "6234743673",
+        "Signup_date": "2024-12-27",
+        "Password": "QEZ0ZqqA^("
+    },
+    {
+        "Seller_id": 8,
+        "Seller_name": "Heidi English",
+        "Email": "stephen98@jackson.com",
+        "Phone_no": "8112362026",
+        "Signup_date": "2025-07-22",
+        "Password": "%r5YJEzUJ4"
+    },
+    {
+        "Seller_id": 9,
+        "Seller_name": "Julie Huff",
+        "Email": "kellynicholas@smith.org",
+        "Phone_no": "6391516794",
+        "Signup_date": "2023-01-11",
+        "Password": "3PUs!mSu^&"
+    },
+    {
+        "Seller_id": 10,
+        "Seller_name": "Laura Solis",
+        "Email": "nriddle@gmail.com",
+        "Phone_no": "6977124276",
+        "Signup_date": "2025-07-13",
+        "Password": "P(a0G5EN(v"
+    },
+    {
+        "Seller_id": 11,
+        "Seller_name": "Brittany Mcdonald",
+        "Email": "suzanne95@hale.info",
+        "Phone_no": "7220251222",
+        "Signup_date": "2023-08-05",
+        "Password": "9xJyY3bZ+#"
+    },
+    {
+        "Seller_id": 12,
+        "Seller_name": "Emily Brown",
+        "Email": "johnathan78@gmail.com",
+        "Phone_no": "8962662888",
+        "Signup_date": "2023-07-19",
+        "Password": "&9bGixL_L*"
+    },
+    {
+        "Seller_id": 13,
+        "Seller_name": "Kenneth Stevenson",
+        "Email": "jeffery37@sheppard.org",
+        "Phone_no": "9744968184",
+        "Signup_date": "2023-12-25",
+        "Password": "*)8@N5diGQ"
+    },
+    {
+        "Seller_id": 14,
+        "Seller_name": "Robert Marshall",
+        "Email": "lisa38@yahoo.com",
+        "Phone_no": "8024758195",
+        "Signup_date": "2025-02-05",
+        "Password": "g54(YA%f^5"
+    },
+    {
+        "Seller_id": 15,
+        "Seller_name": "Kendra Smith",
+        "Email": "fnelson@graham.com",
+        "Phone_no": "7977901451",
+        "Signup_date": "2023-10-25",
+        "Password": "LHL8Axme)L"
+    },
+    {
+        "Seller_id": 16,
+        "Seller_name": "Alyssa Mathis",
+        "Email": "pmartinez@klein-crawford.net",
+        "Phone_no": "9515207750",
+        "Signup_date": "2023-01-20",
+        "Password": "M#1WkG&jom"
+    },
+    {
+        "Seller_id": 17,
+        "Seller_name": "Austin Jones",
+        "Email": "scottblackburn@hernandez-flores.com",
+        "Phone_no": "9992383734",
+        "Signup_date": "2023-01-21",
+        "Password": "tt%pWhdf&8"
+    },
+    {
+        "Seller_id": 18,
+        "Seller_name": "Julie Wilson",
+        "Email": "gene20@carlson-martinez.com",
+        "Phone_no": "6547925183",
+        "Signup_date": "2023-01-13",
+        "Password": "vMXC2S+rY*"
+    },
+    {
+        "Seller_id": 19,
+        "Seller_name": "Jason Carroll",
+        "Email": "andrewbuchanan@johnson.com",
+        "Phone_no": "7309225499",
+        "Signup_date": "2024-09-22",
+        "Password": "@#OqkGUj2D"
+    },
+    {
+        "Seller_id": 20,
+        "Seller_name": "Erica Murphy",
+        "Email": "melanie47@gmail.com",
+        "Phone_no": "9010725420",
+        "Signup_date": "2024-11-11",
+        "Password": "&8$XWyKf8+"
+    },
+    {
+        "Seller_id": 21,
+        "Seller_name": "Adam Clarke",
+        "Email": "eshah@gmail.com",
+        "Phone_no": "7335344065",
+        "Signup_date": "2024-08-03",
+        "Password": "A7goJ8hy%u"
+    },
+    {
+        "Seller_id": 22,
+        "Seller_name": "Megan Weaver",
+        "Email": "yscott@yahoo.com",
+        "Phone_no": "6911259782",
+        "Signup_date": "2025-08-08",
+        "Password": "LNM0Camgj&"
+    },
+    {
+        "Seller_id": 23,
+        "Seller_name": "Joseph Patterson",
+        "Email": "rojaspamela@hotmail.com",
+        "Phone_no": "7802612138",
+        "Signup_date": "2024-09-15",
+        "Password": "_*Qw$s#I3T"
+    },
+    {
+        "Seller_id": 24,
+        "Seller_name": "Mrs. Paige Tate",
+        "Email": "jason52@russell.com",
+        "Phone_no": "9738327600",
+        "Signup_date": "2024-02-14",
+        "Password": "_42Q0KjlYo"
+    },
+    {
+        "Seller_id": 25,
+        "Seller_name": "Elizabeth Kim",
+        "Email": "william08@gmail.com",
+        "Phone_no": "7313988327",
+        "Signup_date": "2025-10-26",
+        "Password": "Z7NM3i^3^c"
+    },
+    {
+        "Seller_id": 26,
+        "Seller_name": "Robin Johnston",
+        "Email": "vgalloway@yahoo.com",
+        "Phone_no": "8635234366",
+        "Signup_date": "2025-01-07",
+        "Password": "(yjdQSDjL3"
+    },
+    {
+        "Seller_id": 27,
+        "Seller_name": "Sylvia Gutierrez",
+        "Email": "eatkins@walker.com",
+        "Phone_no": "7254766287",
+        "Signup_date": "2024-08-31",
+        "Password": "p6z&7Vo$f%"
+    },
+    {
+        "Seller_id": 28,
+        "Seller_name": "Frank Harris",
+        "Email": "carterapril@allen.com",
+        "Phone_no": "8560142553",
+        "Signup_date": "2023-07-16",
+        "Password": "_J#htHkd7Z"
+    },
+    {
+        "Seller_id": 29,
+        "Seller_name": "Autumn Rocha",
+        "Email": "javierhughes@yahoo.com",
+        "Phone_no": "8544608208",
+        "Signup_date": "2025-08-16",
+        "Password": "H*0F_nceXb"
+    },
+    {
+        "Seller_id": 30,
+        "Seller_name": "Gregory Grimes",
+        "Email": "michellechen@hotmail.com",
+        "Phone_no": "7859347365",
+        "Signup_date": "2023-08-19",
+        "Password": "c9Pm_J^+!n"
+    },
+    {
+        "Seller_id": 31,
+        "Seller_name": "Darren Williams",
+        "Email": "thomashayes@yahoo.com",
+        "Phone_no": "7461158026",
+        "Signup_date": "2025-02-19",
+        "Password": "%c1m0rDn$4"
+    },
+    {
+        "Seller_id": 32,
+        "Seller_name": "Brian Fisher",
+        "Email": "christopher29@adams.biz",
+        "Phone_no": "8047156823",
+        "Signup_date": "2023-12-28",
+        "Password": "X%^2HDumIb"
+    },
+    {
+        "Seller_id": 33,
+        "Seller_name": "Jonathan Mccall",
+        "Email": "jessica94@hotmail.com",
+        "Phone_no": "8282046814",
+        "Signup_date": "2024-05-04",
+        "Password": "&dy84ZkFl3"
+    },
+    {
+        "Seller_id": 34,
+        "Seller_name": "Brandon Ramos",
+        "Email": "uwallace@cole.info",
+        "Phone_no": "7300126319",
+        "Signup_date": "2024-02-05",
+        "Password": "t&U8JZ)f%T"
+    },
+    {
+        "Seller_id": 35,
+        "Seller_name": "Amy Jacobson",
+        "Email": "rgonzalez@golden.com",
+        "Phone_no": "7801207234",
+        "Signup_date": "2025-08-23",
+        "Password": "Y&h^2Pyl^x"
+    },
+    {
+        "Seller_id": 36,
+        "Seller_name": "Michelle Long",
+        "Email": "ramosthomas@fuller.com",
+        "Phone_no": "6678967670",
+        "Signup_date": "2023-03-08",
+        "Password": "M&47qTs!G&"
+    },
+    {
+        "Seller_id": 37,
+        "Seller_name": "April Winters",
+        "Email": "matthew80@gmail.com",
+        "Phone_no": "7773608863",
+        "Signup_date": "2024-12-30",
+        "Password": ")5xYJeHGe2"
+    },
+    {
+        "Seller_id": 38,
+        "Seller_name": "Jacqueline Cruz",
+        "Email": "greenthomas@gmail.com",
+        "Phone_no": "7250415516",
+        "Signup_date": "2025-11-01",
+        "Password": "M@x4^kLhR2"
+    },
+    {
+        "Seller_id": 39,
+        "Seller_name": "Erin Farmer",
+        "Email": "ysmith@ramirez.com",
+        "Phone_no": "8402657572",
+        "Signup_date": "2025-10-28",
+        "Password": "7fESaVGp)q"
+    },
+    {
+        "Seller_id": 40,
+        "Seller_name": "Frederick Carter",
+        "Email": "chapmanrodney@small.com",
+        "Phone_no": "6703532086",
+        "Signup_date": "2023-05-14",
+        "Password": "e1bD8B_u%2"
+    },
+    {
+        "Seller_id": 41,
+        "Seller_name": "Cheryl Wright",
+        "Email": "lisa72@yahoo.com",
+        "Phone_no": "9755063417",
+        "Signup_date": "2024-03-04",
+        "Password": "$u(Bnr!m%3"
+    },
+    {
+        "Seller_id": 42,
+        "Seller_name": "Melanie Garrison",
+        "Email": "fpoole@yahoo.com",
+        "Phone_no": "9531702914",
+        "Signup_date": "2024-12-08",
+        "Password": "JHDt55Ay)L"
+    },
+    {
+        "Seller_id": 43,
+        "Seller_name": "Kevin Parsons",
+        "Email": "torressandra@meyer-webster.com",
+        "Phone_no": "8744412269",
+        "Signup_date": "2025-05-05",
+        "Password": "utD4Ywf_F*"
+    },
+    {
+        "Seller_id": 44,
+        "Seller_name": "Calvin Perez",
+        "Email": "uhoffman@ortiz-young.biz",
+        "Phone_no": "7249364578",
+        "Signup_date": "2025-10-31",
+        "Password": "@4kWPC$1ws"
+    },
+    {
+        "Seller_id": 45,
+        "Seller_name": "Allison Jones",
+        "Email": "mendezsydney@hotmail.com",
+        "Phone_no": "7962588927",
+        "Signup_date": "2025-02-27",
+        "Password": "(T2QkwZm&3"
+    },
+    {
+        "Seller_id": 46,
+        "Seller_name": "Jackie Clark",
+        "Email": "floydchad@hotmail.com",
+        "Phone_no": "9654525301",
+        "Signup_date": "2023-03-11",
+        "Password": "!KWm6&b_47"
+    },
+    {
+        "Seller_id": 47,
+        "Seller_name": "Amanda Huerta",
+        "Email": "qsteele@yahoo.com",
+        "Phone_no": "6814068502",
+        "Signup_date": "2025-10-02",
+        "Password": "v8k%P%pG$R"
+    },
+    {
+        "Seller_id": 48,
+        "Seller_name": "Todd Castaneda",
+        "Email": "mestrada@brennan-patrick.org",
+        "Phone_no": "6081986300",
+        "Signup_date": "2024-09-11",
+        "Password": "I2of4pq7$3"
+    },
+    {
+        "Seller_id": 49,
+        "Seller_name": "Mrs. Erin Dean DVM",
+        "Email": "weissjenna@hotmail.com",
+        "Phone_no": "8014293078",
+        "Signup_date": "2025-05-25",
+        "Password": "D4sNzTjQ%w"
+    },
+    {
+        "Seller_id": 50,
+        "Seller_name": "Amanda Stevens",
+        "Email": "nancy09@baker.com",
+        "Phone_no": "8598315516",
+        "Signup_date": "2024-08-15",
+        "Password": "@u#2*R6mJ3"
+    },
+    {
+        "Seller_id": 51,
+        "Seller_name": "Mrs. Melissa Skinner",
+        "Email": "heather13@sweeney.net",
+        "Phone_no": "8368785609",
+        "Signup_date": "2025-02-28",
+        "Password": "_h5_GLXzbm"
+    },
+    {
+        "Seller_id": 52,
+        "Seller_name": "Kristin Spence",
+        "Email": "nicholaselliott@berg-castillo.com",
+        "Phone_no": "7460578807",
+        "Signup_date": "2023-11-15",
+        "Password": "b4SujrIo(f"
+    },
+    {
+        "Seller_id": 53,
+        "Seller_name": "Nicholas Williams",
+        "Email": "nmartin@gmail.com",
+        "Phone_no": "6212438151",
+        "Signup_date": "2025-06-20",
+        "Password": "_+Z6M$tWJA"
+    },
+    {
+        "Seller_id": 54,
+        "Seller_name": "Stephanie Webb",
+        "Email": "rossnicole@hotmail.com",
+        "Phone_no": "8155817815",
+        "Signup_date": "2023-10-11",
+        "Password": "&9@WpMIbnO"
+    },
+    {
+        "Seller_id": 55,
+        "Seller_name": "Christopher Morris",
+        "Email": "gerald50@duran.net",
+        "Phone_no": "8050468387",
+        "Signup_date": "2023-08-08",
+        "Password": "eA!D9&%mN@"
+    },
+    {
+        "Seller_id": 56,
+        "Seller_name": "Joseph Moore",
+        "Email": "callahangina@gmail.com",
+        "Phone_no": "9269086309",
+        "Signup_date": "2023-08-09",
+        "Password": "U1G4xg$f%Z"
+    },
+    {
+        "Seller_id": 57,
+        "Seller_name": "Mr. Anthony Mendoza",
+        "Email": "devinhunt@hotmail.com",
+        "Phone_no": "9800768365",
+        "Signup_date": "2024-06-17",
+        "Password": "%imr9NmmrY"
+    },
+    {
+        "Seller_id": 58,
+        "Seller_name": "Robert Meyer",
+        "Email": "jordanvictor@ramos-marshall.com",
+        "Phone_no": "6533300342",
+        "Signup_date": "2024-08-01",
+        "Password": "))w4Fa&jM$"
+    },
+    {
+        "Seller_id": 59,
+        "Seller_name": "Deborah Young",
+        "Email": "stefanie45@grant.com",
+        "Phone_no": "7241485598",
+        "Signup_date": "2023-11-17",
+        "Password": "(0d(6Be(Y0"
+    },
+    {
+        "Seller_id": 60,
+        "Seller_name": "Theresa George",
+        "Email": "justin52@hotmail.com",
+        "Phone_no": "7925970690",
+        "Signup_date": "2025-05-23",
+        "Password": "w#03QwivF$"
+    },
+    {
+        "Seller_id": 61,
+        "Seller_name": "Jacqueline Richardson",
+        "Email": "christina58@alexander.com",
+        "Phone_no": "7743945490",
+        "Signup_date": "2023-05-15",
+        "Password": "$uIuQH3Y1l"
+    },
+    {
+        "Seller_id": 62,
+        "Seller_name": "Joseph Stone",
+        "Email": "mark00@gmail.com",
+        "Phone_no": "9731163176",
+        "Signup_date": "2024-01-29",
+        "Password": "1@8Ny!rcQ6"
+    },
+    {
+        "Seller_id": 63,
+        "Seller_name": "Austin Ryan",
+        "Email": "jcamacho@garcia-wilson.com",
+        "Phone_no": "8339653023",
+        "Signup_date": "2023-02-21",
+        "Password": "#2a4Qq++jn"
+    },
+    {
+        "Seller_id": 64,
+        "Seller_name": "Renee Eaton",
+        "Email": "stewartanna@hotmail.com",
+        "Phone_no": "7589772661",
+        "Signup_date": "2024-03-03",
+        "Password": "#sjIFylv$8"
+    },
+    {
+        "Seller_id": 65,
+        "Seller_name": "Autumn Sanders",
+        "Email": "mblake@gmail.com",
+        "Phone_no": "9827970388",
+        "Signup_date": "2025-08-28",
+        "Password": "o&w7PynVMg"
+    },
+    {
+        "Seller_id": 66,
+        "Seller_name": "Kelly Willis",
+        "Email": "iflores@gmail.com",
+        "Phone_no": "6512405287",
+        "Signup_date": "2024-07-22",
+        "Password": "(8TTGv)zHk"
+    },
+    {
+        "Seller_id": 67,
+        "Seller_name": "Sherri Hoffman",
+        "Email": "gstewart@yahoo.com",
+        "Phone_no": "7380042622",
+        "Signup_date": "2023-02-14",
+        "Password": "kc0Njvl^6%"
+    },
+    {
+        "Seller_id": 68,
+        "Seller_name": "Charles Kim",
+        "Email": "calderonandrew@gmail.com",
+        "Phone_no": "8653427316",
+        "Signup_date": "2023-12-04",
+        "Password": "%T1i+4$oD)"
+    },
+    {
+        "Seller_id": 69,
+        "Seller_name": "Tiffany Harrison",
+        "Email": "nstewart@robles.com",
+        "Phone_no": "6845060554",
+        "Signup_date": "2025-03-18",
+        "Password": "@N2L(VLY3x"
+    },
+    {
+        "Seller_id": 70,
+        "Seller_name": "Debra Henderson",
+        "Email": "lisavasquez@gmail.com",
+        "Phone_no": "9456053631",
+        "Signup_date": "2024-07-29",
+        "Password": "J)^H6#GdOz"
+    },
+    {
+        "Seller_id": 71,
+        "Seller_name": "Joseph Hardy",
+        "Email": "mathissharon@christensen.net",
+        "Phone_no": "8536085098",
+        "Signup_date": "2023-05-24",
+        "Password": "5a70rCQq(&"
+    },
+    {
+        "Seller_id": 72,
+        "Seller_name": "David Beard",
+        "Email": "millerbrianna@gmail.com",
+        "Phone_no": "6453554219",
+        "Signup_date": "2024-07-07",
+        "Password": "_4J2(iL%Tx"
+    },
+    {
+        "Seller_id": 73,
+        "Seller_name": "Jennifer Hayes",
+        "Email": "jessica26@smith-wagner.biz",
+        "Phone_no": "9723387631",
+        "Signup_date": "2025-11-08",
+        "Password": "p_8L6KeS%#"
+    },
+    {
+        "Seller_id": 74,
+        "Seller_name": "Felicia Cunningham",
+        "Email": "joel20@yahoo.com",
+        "Phone_no": "8690995542",
+        "Signup_date": "2023-10-27",
+        "Password": "FW6FxdLzk$"
+    },
+    {
+        "Seller_id": 75,
+        "Seller_name": "Alexander Lyons",
+        "Email": "derekcameron@figueroa.com",
+        "Phone_no": "6458493997",
+        "Signup_date": "2025-03-22",
+        "Password": "Zc^3Db)t+U"
+    },
+    {
+        "Seller_id": 76,
+        "Seller_name": "Kristina Goodman",
+        "Email": "dustinleonard@beck.org",
+        "Phone_no": "9313133725",
+        "Signup_date": "2025-05-15",
+        "Password": "iya3Tq5H9@"
+    },
+    {
+        "Seller_id": 77,
+        "Seller_name": "Dr. Mark Vargas",
+        "Email": "omarturner@gmail.com",
+        "Phone_no": "7670622098",
+        "Signup_date": "2023-03-21",
+        "Password": "!5Hn@Tr45C"
+    },
+    {
+        "Seller_id": 78,
+        "Seller_name": "Tracy Ortiz",
+        "Email": "jhuynh@howell.com",
+        "Phone_no": "7214227486",
+        "Signup_date": "2023-11-27",
+        "Password": "X53xRwUT_L"
+    },
+    {
+        "Seller_id": 79,
+        "Seller_name": "Melissa Juarez",
+        "Email": "hillderek@gmail.com",
+        "Phone_no": "7652975063",
+        "Signup_date": "2023-10-20",
+        "Password": "70)%i0ZvyT"
+    },
+    {
+        "Seller_id": 80,
+        "Seller_name": "Angela Delacruz",
+        "Email": "villegasmichael@yahoo.com",
+        "Phone_no": "6746279182",
+        "Signup_date": "2025-12-18",
+        "Password": "S%06uZLm)L"
+    },
+    {
+        "Seller_id": 81,
+        "Seller_name": "Matthew Tran",
+        "Email": "edwardsderek@gmail.com",
+        "Phone_no": "6065885571",
+        "Signup_date": "2023-09-14",
+        "Password": "KTKlrQQ)$8"
+    },
+    {
+        "Seller_id": 82,
+        "Seller_name": "David Smith",
+        "Email": "ruthdiaz@richmond.com",
+        "Phone_no": "7610603849",
+        "Signup_date": "2023-04-23",
+        "Password": "qnw3N$%!#6"
+    },
+    {
+        "Seller_id": 83,
+        "Seller_name": "Thomas Sawyer",
+        "Email": "pjohnston@russell-larson.com",
+        "Phone_no": "7393048317",
+        "Signup_date": "2024-10-22",
+        "Password": "w_Y5yLTc)9"
+    },
+    {
+        "Seller_id": 84,
+        "Seller_name": "Scott Miller",
+        "Email": "nathanielgomez@gmail.com",
+        "Phone_no": "6710858174",
+        "Signup_date": "2024-04-11",
+        "Password": "s88V7Hp9)G"
+    },
+    {
+        "Seller_id": 85,
+        "Seller_name": "Jordan Smith",
+        "Email": "fmiller@garcia.org",
+        "Phone_no": "8905231716",
+        "Signup_date": "2023-03-04",
+        "Password": "0blWqoNk$y"
+    },
+    {
+        "Seller_id": 86,
+        "Seller_name": "Jose Mullins",
+        "Email": "leachjeffrey@benitez.com",
+        "Phone_no": "8899253855",
+        "Signup_date": "2024-06-08",
+        "Password": "c2ds8Akl$D"
+    },
+    {
+        "Seller_id": 87,
+        "Seller_name": "Matthew Wise",
+        "Email": "tadams@yahoo.com",
+        "Phone_no": "7171400306",
+        "Signup_date": "2025-07-04",
+        "Password": "7JOIp1wm*&"
+    },
+    {
+        "Seller_id": 88,
+        "Seller_name": "Timothy Warner",
+        "Email": "carterdaniel@gmail.com",
+        "Phone_no": "9741023438",
+        "Signup_date": "2025-04-11",
+        "Password": "L)U8B%Uh1#"
+    },
+    {
+        "Seller_id": 89,
+        "Seller_name": "Olivia Davenport",
+        "Email": "joeljackson@hotmail.com",
+        "Phone_no": "7604465565",
+        "Signup_date": "2025-10-12",
+        "Password": "0Pz5YaUU(g"
+    },
+    {
+        "Seller_id": 90,
+        "Seller_name": "Brian Mitchell",
+        "Email": "michaelsmith@yahoo.com",
+        "Phone_no": "8996180094",
+        "Signup_date": "2023-10-20",
+        "Password": "*2t5u0JlfE"
+    },
+    {
+        "Seller_id": 91,
+        "Seller_name": "Rose Cook",
+        "Email": "eray@yahoo.com",
+        "Phone_no": "8328587046",
+        "Signup_date": "2024-05-16",
+        "Password": "YPN0iQ)tr("
+    },
+    {
+        "Seller_id": 92,
+        "Seller_name": "Timothy Schaefer",
+        "Email": "yolanda42@yahoo.com",
+        "Phone_no": "8883601044",
+        "Signup_date": "2025-05-13",
+        "Password": "_29OY(wF(W"
+    },
+    {
+        "Seller_id": 93,
+        "Seller_name": "Ms. Elizabeth Jones MD",
+        "Email": "petersonmarie@hotmail.com",
+        "Phone_no": "7413748874",
+        "Signup_date": "2024-02-07",
+        "Password": "F@K96CwWHn"
+    },
+    {
+        "Seller_id": 94,
+        "Seller_name": "Heather Ward",
+        "Email": "uhenderson@wells.com",
+        "Phone_no": "7515358599",
+        "Signup_date": "2024-03-31",
+        "Password": "%129mCou)h"
+    },
+    {
+        "Seller_id": 95,
+        "Seller_name": "Charles Owens",
+        "Email": "rebecca92@wilson.org",
+        "Phone_no": "6081748903",
+        "Signup_date": "2025-09-22",
+        "Password": "_0EGPOwT(g"
+    },
+    {
+        "Seller_id": 96,
+        "Seller_name": "Erik Smith",
+        "Email": "jonesana@woodard.com",
+        "Phone_no": "7365396205",
+        "Signup_date": "2024-06-30",
+        "Password": "^GAyv6v%!2"
+    },
+    {
+        "Seller_id": 97,
+        "Seller_name": "Anthony Ray",
+        "Email": "hmartin@yahoo.com",
+        "Phone_no": "9902281888",
+        "Signup_date": "2023-06-12",
+        "Password": "f0KVwrOy%z"
+    },
+    {
+        "Seller_id": 98,
+        "Seller_name": "Kimberly Nichols DDS",
+        "Email": "alec95@hotmail.com",
+        "Phone_no": "8134415925",
+        "Signup_date": "2024-06-12",
+        "Password": "%d5H1looN)"
+    },
+    {
+        "Seller_id": 99,
+        "Seller_name": "Erin Gordon",
+        "Email": "paularias@yahoo.com",
+        "Phone_no": "6528114021",
+        "Signup_date": "2023-02-10",
+        "Password": "$9j(RZ8hJ!"
+    },
+    {
+        "Seller_id": 100,
+        "Seller_name": "Stephen Moody",
+        "Email": "raymond76@caldwell-wright.com",
+        "Phone_no": "6461786317",
+        "Signup_date": "2025-09-18",
+        "Password": "Jv9TYFRfi^"
+    }
+]
