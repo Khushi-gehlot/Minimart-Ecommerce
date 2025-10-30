@@ -1,0 +1,162 @@
+[
+    {
+        "Products_id": 1,
+        "Products_name": "Hoodies - Fashion",
+        "Category_id": 1,
+        "Price": 1460.45,
+        "Brand": "Sony",
+        "Rating": 2.0
+    },
+    {
+        "Products_id": 2,
+        "Products_name": "Accessories - Electronics",
+        "Category_id": 2,
+        "Price": 1386.34,
+        "Brand": "Apple",
+        "Rating": 1.9
+    },
+    {
+        "Products_id": 3,
+        "Products_name": "Non-fiction - Books",
+        "Category_id": 3,
+        "Price": 2460.34,
+        "Brand": "Apple",
+        "Rating": 2.5
+    },
+    {
+        "Products_id": 4,
+        "Products_name": "Pens - Stationary",
+        "Category_id": 4,
+        "Price": 2084.28,
+        "Brand": "Dell",
+        "Rating": 2.5
+    },
+    {
+        "Products_id": 5,
+        "Products_name": "Cricket - Sports",
+        "Category_id": 5,
+        "Price": 3263.33,
+        "Brand": "Dell",
+        "Rating": 4.3
+    },
+    {
+        "Products_id": 6,
+        "Products_name": "Educational - Toys",
+        "Category_id": 6,
+        "Price": 2341.3,
+        "Brand": "Sony",
+        "Rating": 4.8
+    },
+    {
+        "Products_id": 7,
+        "Products_name": "Tables - Furniture",
+        "Category_id": 7,
+        "Price": 1979.38,
+        "Brand": "Samsung",
+        "Rating": 3.9
+    },
+    {
+        "Products_id": 8,
+        "Products_name": "Shirts - Fashion",
+        "Category_id": 8,
+        "Price": 1666.49,
+        "Brand": "Apple",
+        "Rating": 4.1
+    },
+    {
+        "Products_id": 9,
+        "Products_name": "Laptops - Electronics",
+        "Category_id": 9,
+        "Price": 275.69,
+        "Brand": "Apple",
+        "Rating": 1.9
+    },
+    {
+        "Products_id": 10,
+        "Products_name": "Comics - Books",
+        "Category_id": 10,
+        "Price": 961.44,
+        "Brand": "Muji",
+        "Rating": 2.9
+    },
+    {
+        "Products_id": 11,
+        "Products_name": "Notebooks - Stationary",
+        "Category_id": 11,
+        "Price": 4644.24,
+        "Brand": "HP",
+        "Rating": 1.3
+    },
+    {
+        "Products_id": 12,
+        "Products_name": "Gym - Sports",
+        "Category_id": 12,
+        "Price": 233.44,
+        "Brand": "Dell",
+        "Rating": 1.2
+    },
+    {
+        "Products_id": 13,
+        "Products_name": "Action Figures - Toys",
+        "Category_id": 13,
+        "Price": 333.51,
+        "Brand": "Sony",
+        "Rating": 4.7
+    },
+    {
+        "Products_id": 14,
+        "Products_name": "Chairs - Furniture",
+        "Category_id": 14,
+        "Price": 3463.94,
+        "Brand": "Apple",
+        "Rating": 1.1
+    },
+    {
+        "Products_id": 15,
+        "Products_name": "Pants - Fashion",
+        "Category_id": 15,
+        "Price": 560.23,
+        "Brand": "Sony",
+        "Rating": 4.5
+    },
+    {
+        "Products_id": 16,
+        "Products_name": "Accessories - Electronics",
+        "Category_id": 16,
+        "Price": 2070.46,
+        "Brand": "Sony",
+        "Rating": 4.4
+    },
+    {
+        "Products_id": 17,
+        "Products_name": "Non-fiction - Books",
+        "Category_id": 17,
+        "Price": 4294.27,
+        "Brand": "Apple",
+        "Rating": 1.1
+    },
+    {
+        "Products_id": 18,
+        "Products_name": "Notebooks - Stationary",
+        "Category_id": 18,
+        "Price": 823.12,
+        "Brand": "Sony",
+        "Rating": 1.4
+    },
+    {
+        "Products_id": 19,
+        "Products_name": "Gym - Sports",
+        "Category_id": 19,
+        "Price": 3783.96,
+        "Brand": "Sony",
+        "Rating": 2.6
+    },
+    {
+        "Products_id": 20,
+        "Products_name": "Educational - Toys",
+        "Category_id": 20,
+        "Price": 4692.07,
+        "Brand": "Apple",
+        "Rating": 1.1
+    }
+]
