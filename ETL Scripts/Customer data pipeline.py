@@ -3,11 +3,13 @@ from datetime import date
 
 today = date.today()
 print(today)
-path = f"/Volumes/workspace/minimart/customers/customers_data_{today}.csv"
-print(path)
-df = spark.read.csv(path, header=True, inferSchema=True, quote= "\"", multiLine=True)
-display(df)
 
+df = spark.sql(
+    """
+    SELECT * FROM workspace.default.customers_data_minimart
+    """
+)
+display(df)
 
 # COMMAND ----------
 
