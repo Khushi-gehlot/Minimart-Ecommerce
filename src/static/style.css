@@ -1,0 +1,71 @@
+/* navy = #0F3460	 ivory = FFFFF0    beige = f8f3ea 
+oregano
+playlist script
+*/
+
+
+
+.navbar {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            background-color: #0f3460;
+            padding: 10px 10px;
+            box-shadow: 0 2px 4px rgba(253, 155, 155, 0.05);
+        }
+        .navbar-logo {
+            font-size: 4em;
+            font-weight: bold;
+            color: #2d2d2d;
+            text-decoration: none;
+            margin-left: 10px;
+        }
+        .navbar-links {
+            display: flex;
+            gap: 40px;
+            align-items: center;
+        }
+        .navbar-links a {
+            text-decoration: none;
+            color: #333;
+            font-size: 2em;
+            transition: color 0.2s;
+        }
+        .navbar-links a:hover {
+            color: #007bff;
+        }
+        .navbar-search {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+        .navbar-search input[type="text"] {
+            padding: 5px 20px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+            width : 820px
+        }
+        .navbar-search button {
+            padding: 5px 12px;
+            border: none;
+            background: #007bff;
+            color: #fff;
+            border-radius: 3px;
+            cursor: pointer;
+            margin-left: 15px;
+        }
+        .navbar-signup {
+            margin-left: 20px;
+            padding: 6px 16px;
+            background: #28a745;
+            color: #fff;
+            border: none;
+            border-radius: 3px;
+            cursor: pointer;
+            font-size: 2em;
+            margin-right: 20px;
+        }
+        .btn-login {
+            margin-right: 60px;
+
+        }
